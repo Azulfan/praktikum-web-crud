@@ -1,2 +1,2 @@
 # praktikum-web-crud
-# link demo : zulfan.xyz
+link demo : zulfan.xyz
